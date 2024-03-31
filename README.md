@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 
 
 	
-## <picture><img src = "https://github.com/imoki1/imoki1/blob/main/img/developer.gif" width = 250px></picture> **About me**
+## <picture><img src = "https://github.com/imoki1/imoki1/blob/main/img/developer.gif" width = 150px></picture> **About me**
 
 <picture> <img align="right" src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/Right_Side.gif" width = 500px></picture>
 
